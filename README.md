@@ -92,9 +92,3 @@ A data science job posts 2025 dataset with about 940 job posts. It has the job t
 - 🧪 Try other models and compare them
 - 📊 Show which features matter the most
 - 🌍 Put the project online
-
-## 👋 Author
-
-Made by **<your-name>** · [GitHub](https://github.com/<your-username>)
-
-⭐ If you like it, leave a star!
